@@ -58,3 +58,14 @@ li a:hover {
     color:blue;
   background-color: black;
 }
+@font-face {
+font-family:'kosmos';
+src: url(https://dl.dropbox.com/s/olyigvm99jgmn8h/PLANK___.TTF);
+ 
+}
+ 
+div {
+font-family:'kosmos';
+font-size: 2em;
+}
+ 
