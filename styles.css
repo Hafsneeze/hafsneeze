@@ -59,4 +59,22 @@ h1, div, h2, p, h3, a, h4, h5, h6 {
 font-family:'kosmos';
 font-size: 2em;
 }
+
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #a63030 #4f4f4f;
+  }
+  *::-webkit-scrollbar {
+    width: 22px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #4f4f4f;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #a63030;
+    border-radius: 9px;
+    border: 14px solid #ffffff;
+  }
  
