@@ -58,10 +58,9 @@ li a:hover {
 @font-face {
 font-family:'kosmos';
 src: url(https://dl.dropbox.com/s/olyigvm99jgmn8h/PLANK___.TTF);
- 
 }
  
-div {
+h1, div, h2, p, h3, a, h4, h5, h6 {
 font-family:'kosmos';
 font-size: 2em;
 }
